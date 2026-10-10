@@ -30,4 +30,6 @@
  
 ## A112875 - Milaine Renata António de Oliveira
 
-## Lista de Resultados: [TPC4.ipynb]
+## Lista de Resultados: 
+
+[TPC4.ipynb]
