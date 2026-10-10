@@ -32,4 +32,4 @@
 
 ## Lista de Resultados: 
 
-[TPC4.ipynb]
+[TPC4.ipynb](https://github.com/user-attachments/files/33281085/TPC4.ipynb)
